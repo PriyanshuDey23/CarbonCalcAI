@@ -6,7 +6,7 @@ from CarbonCalcAI.utils import *
 st.set_page_config(
     page_title="Carbon Footprint Calculator",
     page_icon="🌿",
-    layout="centered",  # Keeping original layout
+    layout="wide",  # Keeping original layout
     initial_sidebar_state="expanded",
 )
 

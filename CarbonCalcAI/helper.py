@@ -26,7 +26,7 @@ def calculate_carbon_footprint(
 
     # Initialize the LLM model
     llm = ChatGoogleGenerativeAI(
-        model="gemini-1.5-flash", temperature=1,api_key=GOOGLE_API_KEY)
+        model="gemini-2.0-flash", temperature=1,api_key=GOOGLE_API_KEY)
 
     # Set up the prompt template
     prompt = PromptTemplate(

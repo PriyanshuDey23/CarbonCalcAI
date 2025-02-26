@@ -1,5 +1,6 @@
-
 # 🌱 **Carbon Footprint Calculator**
+
+![](output.png)
 
 The **Carbon Footprint Calculator** is an interactive web application built using **Streamlit** that helps individuals and organizations measure their environmental impact. By providing key data on transportation, energy usage, dietary habits, waste management, and home/office details, users can get an estimate of their carbon footprint and discover actionable insights to reduce it.
 
@@ -32,7 +33,7 @@ This project integrates **Google's Generative AI**, powered by **Langchain** and
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/PriyanshuDey23/CarbonCalcAI.git
     
     ```
 
